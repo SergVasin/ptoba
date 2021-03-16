@@ -1,0 +1,22 @@
+@media screen and (max-width: 1440px){
+	.container {
+		position: relative;
+		width: 1180px;
+		margin: auto;
+	}
+	.main-slider__bg {
+		left: 680px;
+	}
+	.main-slider__img-blue {
+		left: 737px;
+	}
+	.main-slider__img-green {
+		left: 594px;
+	}
+	.main-slider__img-purple {
+		left: 585px;
+	}
+	.main-slider__img-yellow {
+		left: 643px;
+	}
+}
